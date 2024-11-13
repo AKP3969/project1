@@ -22,4 +22,5 @@ def fibonacci(n):
     print(second)    
 
 
-fibonacci(5)
+n=int(input("enter the nth number : "))
+fibonacci(n)
